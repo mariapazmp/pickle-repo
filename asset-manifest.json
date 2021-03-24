@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pickle-repo/static/css/main.0f7fe754.chunk.css",
+    "main.js": "/pickle-repo/static/js/main.17c49a06.chunk.js",
+    "main.js.map": "/pickle-repo/static/js/main.17c49a06.chunk.js.map",
+    "runtime-main.js": "/pickle-repo/static/js/runtime-main.505609e9.js",
+    "runtime-main.js.map": "/pickle-repo/static/js/runtime-main.505609e9.js.map",
+    "static/js/2.0304663f.chunk.js": "/pickle-repo/static/js/2.0304663f.chunk.js",
+    "static/js/2.0304663f.chunk.js.map": "/pickle-repo/static/js/2.0304663f.chunk.js.map",
+    "static/js/3.aa060ff4.chunk.js": "/pickle-repo/static/js/3.aa060ff4.chunk.js",
+    "static/js/3.aa060ff4.chunk.js.map": "/pickle-repo/static/js/3.aa060ff4.chunk.js.map",
+    "index.html": "/pickle-repo/index.html",
+    "static/css/main.0f7fe754.chunk.css.map": "/pickle-repo/static/css/main.0f7fe754.chunk.css.map",
+    "static/js/2.0304663f.chunk.js.LICENSE.txt": "/pickle-repo/static/js/2.0304663f.chunk.js.LICENSE.txt",
+    "static/media/app.css": "/pickle-repo/static/media/rick-n-morty-bg.67320788.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.505609e9.js",
+    "static/js/2.0304663f.chunk.js",
+    "static/css/main.0f7fe754.chunk.css",
+    "static/js/main.17c49a06.chunk.js"
+  ]
+}
